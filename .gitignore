@@ -1,0 +1,4 @@
+!*.slx
+*.slx.*
+*.mexw64
+/slprj
