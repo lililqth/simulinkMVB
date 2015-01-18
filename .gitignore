@@ -2,3 +2,4 @@
 *.slx.*
 *.mexw64
 /slprj
+/hdlsrc
