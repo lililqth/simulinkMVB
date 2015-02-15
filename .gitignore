@@ -3,3 +3,5 @@
 *.mexw64
 /slprj
 /hdlsrc
+*.swp
+/hdlcode
